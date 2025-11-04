@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes Podcast", "Classes Podcast\Classes Podcast.csproj", "{7670A31D-8183-4A2D-B534-2AC6DEEAD2D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenSoundClasses", "..\ScreenSoundClasses\ScreenSoundClasses\ScreenSoundClasses.csproj", "{317A9A3E-0E13-BDE8-7865-3987332DED1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7670A31D-8183-4A2D-B534-2AC6DEEAD2D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7670A31D-8183-4A2D-B534-2AC6DEEAD2D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7670A31D-8183-4A2D-B534-2AC6DEEAD2D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7670A31D-8183-4A2D-B534-2AC6DEEAD2D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{317A9A3E-0E13-BDE8-7865-3987332DED1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{317A9A3E-0E13-BDE8-7865-3987332DED1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{317A9A3E-0E13-BDE8-7865-3987332DED1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{317A9A3E-0E13-BDE8-7865-3987332DED1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {017A14EB-5B32-4858-B372-CAD849A6B2CA}
+	EndGlobalSection
+EndGlobal
